@@ -2,7 +2,9 @@
     "name": "1v2player",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "color-coded-tilemap": "*"
     },
     "files": [
         "main.blocks",
